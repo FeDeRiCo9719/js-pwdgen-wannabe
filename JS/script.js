@@ -9,3 +9,4 @@ var color=prompt("Your favourite color");
 
 // 4.Infine scrivi sulla pagina nomecognomecolorepreferito40
 document.write(firstname += surname += color);
+document.write("classe-40")
