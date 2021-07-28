@@ -8,4 +8,4 @@ var surname=prompt("Your surname");
 var color=prompt("Your favourite color");
 
 // 4.Infine scrivi sulla pagina nomecognomecolorepreferito40
-document.write("FedericoLovaglioRedClasse40");
+document.write(firstname += surname += color);
